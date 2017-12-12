@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kuis1102.Kuis1102.Kuis1102ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.047 sec - in com.kuis1102.Kuis1102.Kuis1102ApplicationTests
